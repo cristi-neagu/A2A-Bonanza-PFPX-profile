@@ -1,7 +1,7 @@
  ; PFPX Aircraft Performance File Beechcraft Bonanaza V35
 [GENERAL]
 Author=Cristi Neagu
-Version=2.00
+Version=2.02
 AircraftType=Beechcraft Bonanaza V35
 EngineType=IO-520
 Type=Prop
