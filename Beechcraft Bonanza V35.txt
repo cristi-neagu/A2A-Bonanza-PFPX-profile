@@ -114,11 +114,6 @@ Name=75%
 MinCruiseAlt=1000
 CruiseModeBelowMinAlt=0
 
-FuelAdjust=0; 0
-SpeedAdjust=0; 0
-OptAltAdjust=0; 0
-MaxAltAdjust=0; 0
-
 [DATA]
 ISA-20; 3200
 OPT; 16000
